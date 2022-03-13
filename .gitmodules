@@ -1,0 +1,4 @@
+[submodule "fair-workshop.github.io"]
+	path = fair-workshop.github.io
+	url = https://github.com/albarqouni/fair-workshop.github.io.git
+	branch = master
